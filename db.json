@@ -2,75 +2,75 @@
   "cursos": [
     {
       "id": 1,
-      "nombre": "Programación Web",
-      "maestro":"Luciano Chiroli",
-      "ubicacion":"LIQ",
+      "materia": "Programación Web",
+      "profesor": "Luciano Chiroli",
+      "ubicacion": "LIQ",
       "estudiantes": [
-        { "id": 1, "nombre": "Ana", "edad": 20 },
-        { "id": 2, "nombre": "Luis", "edad": 22 },
-        { "id": 3, "nombre": "Carlos", "edad": 21 },
-        { "id": 4, "nombre": "Valentina", "edad": 23 },
-        { "id": 5, "nombre": "Jorge", "edad": 20 },
-        { "id": 6, "nombre": "Lucía", "edad": 22 },
-        { "id": 7, "nombre": "Pedro", "edad": 24 },
-        { "id": 8, "nombre": "Sofía", "edad": 21 },
-        { "id": 9, "nombre": "Diego", "edad": 22 },
-        { "id": 10, "nombre": "Martina", "edad": 20 }
+        { "id": 1, "nombre": "Ana Fernández", "edad": 20 },
+        { "id": 2, "nombre": "Luis Romero", "edad": 22 },
+        { "id": 3, "nombre": "Carlos Navarro", "edad": 21 },
+        { "id": 4, "nombre": "Valentina Rivas", "edad": 23 },
+        { "id": 5, "nombre": "Jorge Cáceres", "edad": 20 },
+        { "id": 6, "nombre": "Lucía Herrera", "edad": 22 },
+        { "id": 7, "nombre": "Pedro Acosta", "edad": 24 },
+        { "id": 8, "nombre": "Sofía Sosa", "edad": 21 },
+        { "id": 9, "nombre": "Diego Torres", "edad": 22 },
+        { "id": 10, "nombre": "Martina Castro", "edad": 20 }
       ]
     },
     {
       "id": 2,
-      "nombre": "Base de Datos",
-      "maestro":"Franco Gonzalez",
-      "ubicacion":"LIIE",
+      "materia": "Base de Datos",
+      "profesor": "Franco Gonzalez",
+      "ubicacion": "LIIE",
       "estudiantes": [
-        { "id": 11, "nombre": "María", "edad": 21 },
-        { "id": 12, "nombre": "Juan", "edad": 23 },
-        { "id": 13, "nombre": "Emilia", "edad": 22 },
-        { "id": 14, "nombre": "Nicolás", "edad": 20 },
-        { "id": 15, "nombre": "Agustina", "edad": 21 },
-        { "id": 16, "nombre": "Tomás", "edad": 22 },
-        { "id": 17, "nombre": "Camila", "edad": 23 },
-        { "id": 18, "nombre": "Lucas", "edad": 24 },
-        { "id": 19, "nombre": "Florencia", "edad": 20 },
-        { "id": 20, "nombre": "Iván", "edad": 22 }
+        { "id": 11, "nombre": "María Duarte", "edad": 21 },
+        { "id": 12, "nombre": "Juan Pérez", "edad": 23 },
+        { "id": 13, "nombre": "Emilia Vargas", "edad": 22 },
+        { "id": 14, "nombre": "Nicolás Ruiz", "edad": 20 },
+        { "id": 15, "nombre": "Agustina Paredes", "edad": 21 },
+        { "id": 16, "nombre": "Tomás Giménez", "edad": 22 },
+        { "id": 17, "nombre": "Camila López", "edad": 23 },
+        { "id": 18, "nombre": "Lucas Silva", "edad": 24 },
+        { "id": 19, "nombre": "Florencia Molina", "edad": 20 },
+        { "id": 20, "nombre": "Iván Medina", "edad": 22 }
       ]
     },
     {
-        "id": 3,
-        "nombre": "Redes de Computadoras",
-        "maestro": "Mariana Ríos",
-        "ubicacion": "LIE",
-        "estudiantes": [
-          { "id": 21, "nombre": "Federico", "edad": 21 },
-          { "id": 22, "nombre": "Brenda", "edad": 22 },
-          { "id": 23, "nombre": "Gonzalo", "edad": 20 },
-          { "id": 24, "nombre": "Julieta", "edad": 23 },
-          { "id": 25, "nombre": "Ramiro", "edad": 21 },
-          { "id": 26, "nombre": "Paula", "edad": 22 },
-          { "id": 27, "nombre": "Ezequiel", "edad": 24 },
-          { "id": 28, "nombre": "Micaela", "edad": 20 },
-          { "id": 29, "nombre": "Leandro", "edad": 23 },
-          { "id": 30, "nombre": "Milagros", "edad": 21 }
-        ]
-      },
-      {
-        "id": 4,
-        "nombre": "Sistemas Operativos",
-        "maestro": "Daniel Fernández",
-        "ubicacion": "LLI",
-        "estudiantes": [
-          { "id": 31, "nombre": "Tamara", "edad": 22 },
-          { "id": 32, "nombre": "Franco", "edad": 21 },
-          { "id": 33, "nombre": "Bautista", "edad": 23 },
-          { "id": 34, "nombre": "Celeste", "edad": 20 },
-          { "id": 35, "nombre": "Nahuel", "edad": 24 },
-          { "id": 36, "nombre": "Martín", "edad": 22 },
-          { "id": 37, "nombre": "Juliana", "edad": 21 },
-          { "id": 38, "nombre": "Kevin", "edad": 20 },
-          { "id": 39, "nombre": "Daiana", "edad": 23 },
-          { "id": 40, "nombre": "Esteban", "edad": 22 }
-        ]
-      }
+      "id": 3,
+      "materia": "Redes de Computadoras",
+      "profesor": "Mariana Ríos",
+      "ubicacion": "LIE",
+      "estudiantes": [
+        { "id": 21, "nombre": "Federico Arias", "edad": 21 },
+        { "id": 22, "nombre": "Brenda Núñez", "edad": 22 },
+        { "id": 23, "nombre": "Gonzalo Méndez", "edad": 20 },
+        { "id": 24, "nombre": "Julieta Aguirre", "edad": 23 },
+        { "id": 25, "nombre": "Ramiro Cabrera", "edad": 21 },
+        { "id": 26, "nombre": "Paula Salas", "edad": 22 },
+        { "id": 27, "nombre": "Ezequiel Benítez", "edad": 24 },
+        { "id": 28, "nombre": "Micaela Ortiz", "edad": 20 },
+        { "id": 29, "nombre": "Leandro Godoy", "edad": 23 },
+        { "id": 30, "nombre": "Milagros Miranda", "edad": 21 }
+      ]
+    },
+    {
+      "id": 4,
+      "materia": "Sistemas Operativos",
+      "profesor": "Daniel Fernández",
+      "ubicacion": "LLI",
+      "estudiantes": [
+        { "id": 31, "nombre": "Tamara Roldán", "edad": 22 },
+        { "id": 32, "nombre": "Franco Medina", "edad": 21 },
+        { "id": 33, "nombre": "Bautista Villalba", "edad": 23 },
+        { "id": 34, "nombre": "Celeste Márquez", "edad": 20 },
+        { "id": 35, "nombre": "Nahuel Quiroga", "edad": 24 },
+        { "id": 36, "nombre": "Martín Vera", "edad": 22 },
+        { "id": 37, "nombre": "Juliana Estrada", "edad": 21 },
+        { "id": 38, "nombre": "Kevin Ramírez", "edad": 20 },
+        { "id": 39, "nombre": "Daiana Cáceres", "edad": 23 },
+        { "id": 40, "nombre": "Esteban Díaz", "edad": 22 }
+      ]
+    }
   ]
 }
